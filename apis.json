@@ -1,0 +1,43 @@
+{
+    "name": "DigitalGov Search",
+    "description": "<p>1,500 government websites currently use DigitalGov Search to power their search box. It would be impossible to match the value of GSA's DigitalGov Search service by procuring, building, and configuring a custom solution ourselves. With the combination of a very feature-rich search service and knowledgable staff, this is by far the best search tool ever.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/digitalgov_search_logo.png",
+    "tags": [
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/digitalgov-search\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "DigitalGov Search",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/digitalgov_search_logo.png",
+            "humanURL": "http:\/\/search.digitalgov.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/digitalgov-search-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/digitalgov-search-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Developers",
+            "url": "http:\/\/search.digitalgov.gov\/developer"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/search.digitalgov.gov"
+        }
+    ]
+}
